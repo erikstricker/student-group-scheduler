@@ -4,7 +4,7 @@ https://erikstricker.shinyapps.io/StudentGroupScheduler/
 
 A user-friendly R Shiny application for educators and project managers to create balanced, randomized group schedules for students or team members. This tool simplifies the complex task of daily group assignments, allowing for custom constraints and ensuring variety without repetition.
 
-![App Screenshot](StudentGroup-Scheduler_Webapp.jpg)
+![App Screenshot](StudentGroupScheduler_Webapp.jpg)
 
 ## Key Features
 
@@ -37,13 +37,15 @@ To run this application on your own computer, you will need R and RStudio instal
     shiny::runApp()
     ```
 
-## Project Structure
-student-group-scheduler/
-├── student-group-scheduler.Rproj   # RStudio Project File
-├── app.R                           # The single-file Shiny application source code
-├── .gitignore                      # Specifies files for Git to ignore (like .Rproj.user)
-├── README.md                       # This README file
+## Project Structure  
+```
+student-group-scheduler/  
+├── student-group-scheduler.Rproj   # RStudio Project File  
+├── app.R                           # The single-file Shiny application source code  
+├── .gitignore                      # Specifies files for Git to ignore (like .Rproj.user)  
+├── README.md                       # This README file  
 └── StudentGroup-Scheduler_Webapp.jpg # Screenshot image for the README
+```  
 
 ## Requirements
 
