@@ -38,12 +38,14 @@ To run this application on your own computer, you will need R and RStudio instal
     ```
 
 ## Project Structure  
+```
 student-group-scheduler/  
 ├── student-group-scheduler.Rproj   # RStudio Project File  
 ├── app.R                           # The single-file Shiny application source code  
 ├── .gitignore                      # Specifies files for Git to ignore (like .Rproj.user)  
 ├── README.md                       # This README file  
-└── StudentGroup-Scheduler_Webapp.jpg # Screenshot image for the README  
+└── StudentGroup-Scheduler_Webapp.jpg # Screenshot image for the README
+```  
 
 ## Requirements
 
